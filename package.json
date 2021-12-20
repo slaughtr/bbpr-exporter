@@ -1,0 +1,16 @@
+{
+  "name": "bbpr2gh",
+  "version": "0.1.0",
+  "description": "Bitbucket pull request information exporter, with Github import functionality ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dallas Slaughter",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.2.2",
+    "node-fetch": "^2.6.6"
+  }
+}
